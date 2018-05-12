@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38195'
     url: http://www.gutenberg.org/2009/agents/38195
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36312#Witchcraft-of-New-England-Explained-by-Modern-Spiritualism
 gutenberg_issued: '2011-06-03'
 gutenberg_type: Text
 identifiers:
