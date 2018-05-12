@@ -1,0 +1,27 @@
+_repo: Witchcraft-of-New-England-Explained-by-Modern-Spiritualism_36312
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Putnam, Allen
+    birthdate: 1802
+    deathdate: 1887
+    gutenberg_agent_id: '38195'
+    url: http://www.gutenberg.org/2009/agents/38195
+description: ''
+gutenberg_issued: '2011-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36312'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Witchcraft -- New England'
+title: Witchcraft of New England Explained by Modern Spiritualism
+url: http://www.gutenberg.org/ebooks/36312
